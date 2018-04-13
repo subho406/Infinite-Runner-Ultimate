@@ -41,10 +41,10 @@ Email to: subhojeetpramanik@gmail.com for any technical assistance.
 * [BallZ: Into the Vortex](https://play.google.com/store/apps/details?id=com.bfl.ballz&hl=en)
 
 ### Screenshots
-![](/_images/1.jpg)
-![](/_images/2.jpg)
-![](/_images/3.jpg)
-![](/_images/4.jpg)
-![](/_images/5.jpg)
-![](/_images/6.jpg)
-![](/_images/7.jpg)
+![1](/_images/1.jpg)
+![2](/_images/2.jpg)
+![3](/_images/3.jpg)
+![4](/_images/4.jpg)
+![5](/_images/5.jpg)
+![6](/_images/6.jpg)
+![7](/_images/7.jpg)
