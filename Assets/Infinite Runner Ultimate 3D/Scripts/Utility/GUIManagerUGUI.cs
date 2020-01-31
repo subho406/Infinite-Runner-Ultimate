@@ -34,7 +34,6 @@ public class GUIManagerUGUI : MonoBehaviour {
 	public Text HighScoreCoin;
 	public Text HighScoreScore;
 	public Text HighScoreDistance;
-    public StoreManager Store;
     public GameObject RevivalButton; //This GameObject is deacativated if revival is not bought in store.
     public Text RevivalText;//The text that displays number of revivals available
 
