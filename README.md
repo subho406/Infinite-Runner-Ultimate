@@ -37,7 +37,7 @@ Email to: subhojeetpramanik@gmail.com for any technical assistance.
 
 
 ### Demo 
-* [Desert Ruins (Desktop Demo)](https://drive.google.com/file/d/0B_n0oNvbDHhAbWhwc25vdXRKVjg/view)
+* [Desert Ruins (Desktop Demo)](https://drive.google.com/file/d/0B_n0oNvbDHhAbWhwc25vdXRKVjg/view?usp=sharing&resourcekey=0-yi5gMeDgSRPE3iF2n4t9lg)
 * [BallZ: Into the Vortex](https://play.google.com/store/apps/details?id=com.bfl.ballz&hl=en)
 
 ### Screenshots
